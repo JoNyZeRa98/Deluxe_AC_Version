@@ -1,4 +1,4 @@
 {
-    "version": "1.0.0",
-    "changelog": "Released Deluxe AntiCheat V1.0.0"
+    "version": "1.0.1",
+    "changelog": "Added configurable global server trigger protection & optimization"
 }
