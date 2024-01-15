@@ -1,4 +1,4 @@
 {
-    "version": "1.0.1",
-    "changelog": "Added configurable global server trigger protection & optimization"
+    "version": "1.0.2",
+    "changelog": "Reworked blacklisted prop deleting method and various fixes"
 }
