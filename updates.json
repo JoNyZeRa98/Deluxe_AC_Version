@@ -1,4 +1,4 @@
 {
-    "version": "1.0.2",
-    "changelog": "Reworked blacklisted prop deleting method and various fixes"
+    "version": "1.0.3",
+    "changelog": "Added a lot of detections and game panel updates"
 }
