@@ -1,4 +1,4 @@
 {
-    "version": "1.0.5",
-    "changelog": "Added new detection methods and updated UI with staff ranks"
+    "version": "1.0.6",
+    "changelog": "Added blacklisted props, peds , entities server side detection. New anti give weapon detections"
 }
