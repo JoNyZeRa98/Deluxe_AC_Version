@@ -1,4 +1,4 @@
 {
-    "version": "1.0.6",
-    "changelog": "Added blacklisted props, peds , entities server side detection. New anti give weapon detections"
+    "version": "1.0.7",
+    "changelog": "Added detections, various code refacture, fixed known issues"
 }
