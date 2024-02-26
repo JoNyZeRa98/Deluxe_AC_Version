@@ -1,4 +1,4 @@
 {
-    "version": "1.0.7",
-    "changelog": "Added detections, various code refacture, fixed known issues"
+    "version": "1.0.8",
+    "changelog": "changelog 'Added Config_SV.AC_Bypass = {'mod'} -- These groups bypass BAN but cannot open AC Menu'"
 }
