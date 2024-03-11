@@ -1,4 +1,4 @@
 {
-    "version": "1.0.8",
-    "changelog": "changelog 'Added Config_SV.AC_Bypass = {'mod'} -- These groups bypass BAN but cannot open AC Menu'"
+    "version": "1.0.9",
+    "changelog": "Added ip hideable in webhooks, fixed some client config, fixed webhooks correct channel messages, various fixes and improvements"
 }
